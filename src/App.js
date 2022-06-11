@@ -10,7 +10,7 @@ function App() {
     <>
       <div className='shanu'>
         <Navbar.Brand>!!! SIMPLE ** PROJECT !!!</Navbar.Brand><br></br>
-        <Navbar.Brand>!!! FROM @ TnpLab. !!!</Navbar.Brand>
+        <Navbar.Brand>!!! FROM @ tnpLab. !!!</Navbar.Brand>
       </div>
       <div className="App">
         <Sidebar />
